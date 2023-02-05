@@ -1,0 +1,12 @@
+[
+  {
+    "actionType": "eat",
+    "amountCal": 50,
+    "actionName": "rice"
+  },
+  {
+    "actionType": "exercise",
+    "amountCal": 400,
+    "actionName": "run"
+  }
+]
